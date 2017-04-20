@@ -105,7 +105,7 @@ body{
 }
 .grid{
   width:19%;
-  background: white;
+  background:black;
 }
 .one{
   width: 61.8046971569839%;
@@ -114,7 +114,8 @@ body{
   flex-direction: column;
   justify-content: space-around;
   text-align: right;
-  border-right: solid 3px
+  border-right: solid 3px;
+  background:black;
 }
 .menu{
   width:19.097651421508%;
@@ -122,7 +123,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  border-left: solid 3px
+  border-left: solid 3px;
+  background:black;
 }
 .smile{
   width:38.1953028430161%;
